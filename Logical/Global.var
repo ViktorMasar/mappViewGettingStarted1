@@ -1,0 +1,4 @@
+VAR
+	SetTemperature : INT;
+	CurrentTemperature : INT;
+END_VAR

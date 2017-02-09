@@ -1,0 +1,4 @@
+VAR
+	MTBasicsPT1_0 : MTBasicsPT1;
+	aiTankLevel : USINT;
+END_VAR
